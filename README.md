@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Sneha Sinare
 **A passionate Web developer || from India**
 
-Email Me 👉 ✉️ **sinaresneha.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sinaresneha@gamil.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Linkedin clone developing
 - 🌱 **I’m currently learning:** power bi
 - 👯 **I’m looking to collaborate on:** Website development
 - 🤔 **I’m looking for help with:** Website development
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** sinaresneha.com
+- 📫 **How to reach me:** sinaresneha@gmail.com
 - 😄 **Pronouns:** Sneha Sinare
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
