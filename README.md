@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Sneha Sinare
 **A passionate Web developer || from India**
 
-Email Me 👉 ✉️ **sinaresneha@gamil.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sinaresneha@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Linkedin clone developing
 - 🌱 **I’m currently learning:** power bi
